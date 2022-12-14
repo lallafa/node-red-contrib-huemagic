@@ -48,14 +48,14 @@
     "access": "public"
   },
   "dependencies": {
-    "async": "^3.2.2",
+    "async": "^3.2.4",
     "axios": "^0.27.2",
     "color-namer": "^1.4.0",
     "colornames": "^1.1.1",
-    "dayjs": "^1.10.7",
-    "deep-object-diff": "^1.1.0",
-    "eventsource": "^2.0.0",
+    "dayjs": "^1.11.7",
+    "deep-object-diff": "^1.1.9",
+    "eventsource": "^2.0.2",
     "fastq": "^1.13.0",
-    "get-image-colors": "^4.0.0"
+    "get-image-colors": "^4.0.1"
   }
 }
